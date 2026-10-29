@@ -1,0 +1,14 @@
+# SignSense - Python dependencies
+# Versions are the ones the project was built and run with (Python 3.11.8, Windows).
+# Install with:  pip install -r requirements.txt
+
+tensorflow==2.15.0
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+scikit-learn==1.6.1
+matplotlib==3.10.1
+numpy==1.26.4
+
+# Optional - to run the notebook and view training logs
+notebook
+tensorboard==2.15.2
